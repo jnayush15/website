@@ -2,4 +2,4 @@
 
 This is a dummy chnage
 
-Making change from another branch for testing.
+Update made on master on Github before release.
